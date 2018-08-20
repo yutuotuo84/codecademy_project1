@@ -1,0 +1,39 @@
+.header{
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  font-weight: bold;
+  background-image: url("pattern.jpeg");
+  text-align: center;
+}
+
+.product-banner{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.product-name{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.product-desc{
+  font-size: 16px;
+}
+
+strong {
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
+
+#frames{
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
